@@ -2,7 +2,7 @@
     test_message = "This is a test message"
 
 @label1[msg]
-    echo($message)
+    echo($msg)
 
 @main[]
     echo("On OS: ", OSNAME)
