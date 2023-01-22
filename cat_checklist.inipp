@@ -1,0 +1,11 @@
+[Main]
+
+[Info]
+name = "macro-installer"
+version = "0.0.0"
+
+[Download]
+dependencies = []
+files = []
+scripts = ["install.ccs"]
+
