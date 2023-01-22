@@ -5,5 +5,5 @@
     echo($message)
 
 @main[]
-    echo("On OS: ", $OSNAME)
+    echo("On OS: ", OSNAME)
     call(label1,$test_message)
