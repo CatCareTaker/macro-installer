@@ -1,0 +1,2 @@
+@main[]
+  echoln("Hello, World!")
